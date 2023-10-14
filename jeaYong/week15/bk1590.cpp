@@ -10,7 +10,6 @@ int main() {
     vector<long long> bus;
     cin >> n >> t;
     
-
     for(int i = 0 ; i < n; i++){
         cin >> s >> l >> c;
         for(int j = 0; j < c; j++){
